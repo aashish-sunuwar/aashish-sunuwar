@@ -1,4 +1,4 @@
-### Hi there 👋 I am Aashish Sunuwar
+### Hi, I am Aashish Sunuwar 👋
 
 <!--
 **aashish-sunuwar/aashish-sunuwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
