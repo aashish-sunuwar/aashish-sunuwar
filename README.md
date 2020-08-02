@@ -10,7 +10,7 @@
 
 [![Facebook][1.1]][1]
 [![Twitter][2.1]][2]
-[![Instagram] [3.1][3]
+[![Instagram][3.1]][3]
 [![Dribble][4.1]][4]
 [![Github][5.1]][5]
 
@@ -27,7 +27,7 @@
 [1]: https://www.facebook.com/spydermyaan
 [2]: https://www.twitter.com/ArtistSunuwar
 [3]: https://www.instagram.com/used.less.brain
-[3]: https://dribbble.com/aashish-sunuwar
-[4]: https://www.github.com/aashish-sunuwar
+[4]: https://dribbble.com/aashish-sunuwar
+[5]: https://www.github.com/aashish-sunuwar
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
