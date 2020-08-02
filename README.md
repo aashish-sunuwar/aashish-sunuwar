@@ -10,7 +10,7 @@
 
 [![Facebook][1.1]][1]
 [![Twitter][2.1]][2]
-[![Instagram](https://i.pinimg.com/originals/8a/77/05/8a770507298d728a1e3e039a0507dd8e.png = 200px)][3]
+![Instagram](https://i.pinimg.com/originals/8a/77/05/8a770507298d728a1e3e039a0507dd8e.png = 200px)](https://www.instagram.com/used.less.brain)
 [![Dribble][4.1]][4]
 [![Github][5.1]][5]
 
@@ -25,7 +25,6 @@
 <!-- links to your social media accounts -->
 [1]: https://www.facebook.com/spydermyaan
 [2]: https://www.twitter.com/ArtistSunuwar
-[3]: https://www.instagram.com/used.less.brain
 [4]: https://dribbble.com/aashish-sunuwar
 [5]: https://www.github.com/aashish-sunuwar
 
