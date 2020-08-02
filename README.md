@@ -2,9 +2,10 @@
 
 ![wallpaper](https://img.wallpapersafari.com/desktop/1920/1080/13/93/P3YFQs.jpg)
 
-- :school: I’m currently studying Bachelor in Computer Science in Herald College Kathmandu.
+- :mortar_board: Currently studying Bachelor in Computer Science in Herald College Kathmandu.
+- :computer: Love coding.
+- :iphone: Love new techs.
 
-- 📫 How to reach me:
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
