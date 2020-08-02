@@ -1,5 +1,5 @@
 ### Hi, I am Aashish Sunuwar 👋
-✨ _special_ ✨ 
+✨ MARIO ✨ 
 
 - 🌱 I’m currently studying Bachelor in Computer Science in Herald College Kathmandu.
 
