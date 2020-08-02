@@ -1,7 +1,6 @@
 ### Hi, I am Aashish Sunuwar 👋
-✨ MARIO ✨ 
 
-![wallpaper](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG-AI4LQo8L7w9ypzuxD9LAKYfdM7YQecudw&usqp=CAU)
+![wallpaper](https://img.wallpapersafari.com/desktop/1920/1080/13/93/P3YFQs.jpg)
 
 - 🌱 I’m currently studying Bachelor in Computer Science in Herald College Kathmandu.
 
