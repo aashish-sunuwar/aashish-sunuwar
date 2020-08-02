@@ -1,11 +1,10 @@
 ### Hi, I am Aashish Sunuwar 👋
-
-<!--
-**aashish-sunuwar/aashish-sunuwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨ 
 
 - 🌱 I’m currently studying Bachelor in Computer Science in Herald College Kathmandu.
 
-- 📫 How to reach me:<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+- 📫 How to reach me:
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
 
