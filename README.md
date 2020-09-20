@@ -1,7 +1,7 @@
 ### Hi, I am Aashish Sunuwar 👋
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<img align="right" width="300" height="300" src="https://media.giphy.com/media/LPsA9TALZPwRbGFkg8/giphy-downsized.gif">
+<img align="right" width="300" height="300" src="https://media.giphy.com/media/hNnDydEYzU6jjImhEB/giphy.gif">
 
 
 - :mortar_board: Currently studying Bachelor in Computer Science in Herald College Kathmandu.
