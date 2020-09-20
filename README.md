@@ -5,7 +5,7 @@
 - :iphone: Love new techs.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/LPsA9TALZPwRbGFkg8/giphy-downsized.gif">
+<img align="right" width="500" height="500" src="https://media.giphy.com/media/LPsA9TALZPwRbGFkg8/giphy-downsized.gif">
 <!-- display the social media buttons in your README -->
 
 [![Facebook][1.1]][1]
