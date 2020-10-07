@@ -1,5 +1,4 @@
-### Hi, I am Aashish Sunuwar 👋
-- :mortar_board: Currently studying Bachelor in Computer Science in Herald College Kathmandu.
+### Hello world! I am Aashish Sunuwar 👋
 - :computer: Love coding.
 - :iphone: Love new techs.
 
