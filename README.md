@@ -26,3 +26,6 @@
 [4]: https://www.github.com/aashish-sunuwar
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+### Show some ❤️ by starring some of the repositories!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ritvyk&show_icons=true&hide_border=true)
