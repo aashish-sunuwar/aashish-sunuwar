@@ -20,7 +20,11 @@
 [4]: https://www.github.com/aashish-sunuwar
 
 <p class="line-1 anim-typewriter">Animation typewriter style using css steps()</p>
-
+<style>
+  .line-1 {
+    color: red;
+  }
+</style>
 
 ### Show some ❤️ by starring some of the repositories!
 ![Github stats](https://github-readme-stats.vercel.app/api?username=spydermyaan&show_icons=true&hide_border=true)
