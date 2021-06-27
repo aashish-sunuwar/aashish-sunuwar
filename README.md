@@ -20,6 +20,6 @@
 [4]: https://www.github.com/aashish-sunuwar
 
 ### Show some ❤️ by starring some of the repositories!
-![Github stats](https://github-readme-stats.vercel.app/api?username=spydermyaan&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=spydermyaan&show_icons=true&hide_border=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spydermyaan&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spydermyaan&show_icons=true&theme=dark)
